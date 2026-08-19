@@ -14,7 +14,7 @@ Acredito que cada dia é uma oportunidade para aprender algo novo 🚀
 ## 🌟 Sobre mim
 
 - 🎓 Graduando em Ciência da Computação  
-- 🌱 Atualmente aprendendo **Next.js**, **NestJS** e **IA aplicada**  
+- 🌱 Atualmente aprendendo **C#**, **C++** 
 - 💬 Contribuindo para projetos **Open Source**  
 - ✍️ Escrevo artigos técnicos e compartilho conhecimento  
 - 🤝 Colaborador e mentor em comunidades de desenvolvedores  
